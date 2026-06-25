@@ -8,8 +8,8 @@ This project was developed as part of a **4-week internship program** at **CodTe
 
 ## 👩‍💻 Intern Details
 
-* **Name:** Shariqua Tabassum G
-* **Intern ID:** CITS3942
+* **Name:** Parvez Ahmed T
+* **Intern ID:** CITS3950
 * **Duration:** 4 Weeks
 * **Domain:** Artificial Intelligence / Data Science
 
@@ -148,7 +148,7 @@ streamlit run app.py
 
 This project is hosted on GitHub:
 
-👉 https://github.com/shariqua06/stock-ai-forecast
+👉 https://github.com/drtparvezahmed-oss/stock-ai-forecast
 
 ---
 
@@ -179,11 +179,11 @@ This project is submitted as part of internship evaluation.
 
 **Internship Provider:** CodTech IT Solutions
 
-**Intern ID:** CITS3942
+**Intern ID:** CITS3950
 
 **Duration:** 4 Weeks
 
-**Submitted By:** Shariqua Tabassum G
+**Submitted By:** Parvez Ahmed T
 
 ---
 
